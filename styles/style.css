@@ -1,0 +1,76 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 30px;
+    background-color: rgb(255, 250, 237);
+}
+img{
+    width: 250px;
+    height: auto;
+    padding-bottom: 20px;
+}
+main{
+    text-align: left;
+    width: 700px;
+    border-radius: 25px;
+    margin: 32px auto;
+    padding: 32px;
+    color: rgb(235, 219, 250);
+    background-color: rgb(122, 9, 197);
+}
+h1{
+    font-size: 52px;
+    font-weight: bolder;
+    color: rgb(122, 9, 197);
+}
+h2{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(235, 219, 250);
+}
+p{
+    color: rgb(235, 219, 250);
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+li{
+    margin: 14px 0;
+    padding-left: 10px;
+    border-left: 3px solid transparent;
+}
+.focus_point{
+    color: rgb(246, 200, 132);
+    padding: 2px 4px 2px 8px;
+    border-color: rgb(247, 209, 45);
+}
+a{
+    text-decoration: none;
+    color: rgb(35, 1, 59);
+    padding: 2px 6px;
+    border-radius: 3px;
+    background-color:rgb(248, 212, 156);
+}
+a:hover,
+a:active{
+    background-color: rgb(250, 201, 39);
+}
+footer{
+    padding: 40px;
+}
+footer a{
+    background-color: rgb(255, 243, 78);
+    color:rgb(66, 51, 4) ;
+    border-radius: 8px;
+    padding: 12px 20px;
+}
+footer a:hover,
+footer a:active{
+    background-color: rgb(227, 182, 32);
+}
+footer p{
+    color: rgb(131, 113, 149);
+    margin-top: 30px;
+}
